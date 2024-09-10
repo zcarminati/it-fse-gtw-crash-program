@@ -1,0 +1,49 @@
+{
+  "counter" : 11,
+  "dataAggiornamento" : "10-09-2024 09:30:52",
+  "issuers" : [ {
+    "nome" : "integrity:S1#160#REGIONEPUGLIATEST",
+    "regione" : "REGIONE_PUGLIA",
+    "cfPaziente" : "FSEPGL01E41A145J"
+  }, {
+    "nome" : "integrity:S1#100#REGIONEUMBRIATEST",
+    "regione" : "REGIONE_UMBRIA",
+    "cfPaziente" : "CRSMRM80A01G478X"
+  }, {
+    "nome" : "integrity:S1#010#REGIONEPIEMONTETEST",
+    "regione" : "REGIONE_PIEMONTE",
+    "cfPaziente" : "SCLSCL00A55G273T"
+  }, {
+    "nome" : "integrity:S1#170#REGIONEBASILICATATEST",
+    "regione" : "REGIONE_BASILICATA",
+    "cfPaziente" : "PRVPVT81E03F052W"
+  }, {
+    "nome" : "integrity:S2#041#PABOLZANOTEST",
+    "regione" : "REGIONE_BOLZANO",
+    "cfPaziente" : "PRVFSN70S04A952Z"
+  }, {
+    "nome" : "integrity:S1#070#REGIONELIGURIATEST",
+    "regione" : "REGIONE_LIGURIA",
+    "cfPaziente" : "CQTDLT66H01Z356V"
+  }, {
+    "nome" : "integrity:S1#200#FSESARDEGNA-TEST",
+    "regione" : "REGIONE_SARDEGNA",
+    "cfPaziente" : "CGNCTD93M22B354R"
+  }, {
+    "nome" : "integrity:S1#020#020VALDAOSTATEST",
+    "regione" : "REGIONE_VALLE_AOSTA",
+    "cfPaziente" : "PZNTTF75H27E379B"
+  }, {
+    "nome" : "integrity:S1#120#REGIONELAZIOTEST",
+    "regione" : "REGIONE_LAZIO",
+    "cfPaziente" : "AAAEEE01A01H501Q"
+  }, {
+    "nome" : "integrity:S1#060#FRIULIVENEZIAGIULIATEST",
+    "regione" : "REGIONE_FRIULI_VENEZIA_GIULIA",
+    "cfPaziente" : "PRVNSL72B68L101R"
+  }, {
+    "nome" : "integrity:S1#080#EMILIAROMAGNA",
+    "regione" : "REGIONE_EMILIA_ROMAGNA",
+    "cfPaziente" : "PRVPRV59T16L424B"
+  } ]
+}
