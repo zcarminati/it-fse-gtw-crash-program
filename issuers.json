@@ -1,6 +1,6 @@
 {
-  "counter" : 11,
-  "dataAggiornamento" : "10-09-2024 09:30:52",
+  "counter" : 12,
+  "dataAggiornamento" : "16-10-2024 13:17:21",
   "issuers" : [ {
     "nome" : "integrity:S1#160#REGIONEPUGLIATEST",
     "regione" : "REGIONE_PUGLIA",
@@ -45,5 +45,9 @@
     "nome" : "integrity:S1#080#EMILIAROMAGNA",
     "regione" : "REGIONE_EMILIA_ROMAGNA",
     "cfPaziente" : "PRVPRV59T16L424B"
+  }, {
+    "nome" : "integrity:S1#050#REGIONEVENETOTEST",
+    "regione" : "REGIONE_VENETO",
+    "cfPaziente" : "PZNTTF20T30L219R"
   } ]
 }
