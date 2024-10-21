@@ -1,6 +1,6 @@
 {
-  "counter" : 12,
-  "dataAggiornamento" : "16-10-2024 13:17:21",
+  "counter" : 13,
+  "dataAggiornamento" : "21-10-2024 14:34:19",
   "issuers" : [ {
     "nome" : "integrity:S1#160#REGIONEPUGLIATEST",
     "regione" : "REGIONE_PUGLIA",
@@ -49,5 +49,9 @@
     "nome" : "integrity:S1#050#REGIONEVENETOTEST",
     "regione" : "REGIONE_VENETO",
     "cfPaziente" : "PZNTTF20T30L219R"
+  }, {
+    "nome" : "integrity:S1#140#REGIONEMOLISETEST",
+    "regione" : "REGIONE_MOLISE",
+    "cfPaziente" : "ZCCSBT75C05I282D"
   } ]
 }
