@@ -1,6 +1,6 @@
 {
-  "counter" : 13,
-  "dataAggiornamento" : "21-10-2024 14:34:19",
+  "counter" : 14,
+  "dataAggiornamento" : "21-10-2024 14:34:58",
   "issuers" : [ {
     "nome" : "integrity:S1#160#REGIONEPUGLIATEST",
     "regione" : "REGIONE_PUGLIA",
@@ -53,5 +53,9 @@
     "nome" : "integrity:S1#140#REGIONEMOLISETEST",
     "regione" : "REGIONE_MOLISE",
     "cfPaziente" : "ZCCSBT75C05I282D"
+  }, {
+    "nome" : "integrity:S1#090#090REGIONETOSCANA-TEST",
+    "regione" : "REGIONE_TOSCANA",
+    "cfPaziente" : "MNTMRA03M71C615V"
   } ]
 }
