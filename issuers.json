@@ -1,6 +1,6 @@
 {
-  "counter" : 15,
-  "dataAggiornamento" : "28-10-2024 09:18:30",
+  "counter" : 16,
+  "dataAggiornamento" : "05-11-2024 14:55:46",
   "issuers" : [ {
     "nome" : "integrity:S1#160#REGIONEPUGLIATEST",
     "regione" : "REGIONE_PUGLIA",
@@ -61,5 +61,9 @@
     "nome" : "integrity:S1#042#PATRENTOTEST",
     "regione" : "REGIONE_TRENTO",
     "cfPaziente" : "TRCTST70A01L378S"
+  }, {
+    "nome" : "integrity:S1#130#Middleware130",
+    "regione" : "REGIONE_ABRUZZO",
+    "cfPaziente" : "DNNBZZ60A43A345K"
   } ]
 }
