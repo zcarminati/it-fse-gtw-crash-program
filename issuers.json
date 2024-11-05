@@ -1,6 +1,6 @@
 {
-  "counter" : 16,
-  "dataAggiornamento" : "05-11-2024 14:55:46",
+  "counter" : 17,
+  "dataAggiornamento" : "05-11-2024 14:57:27",
   "issuers" : [ {
     "nome" : "integrity:S1#160#REGIONEPUGLIATEST",
     "regione" : "REGIONE_PUGLIA",
@@ -65,5 +65,9 @@
     "nome" : "integrity:S1#130#Middleware130",
     "regione" : "REGIONE_ABRUZZO",
     "cfPaziente" : "DNNBZZ60A43A345K"
+  }, {
+    "nome" : "integrity:S1#180#Middleware180",
+    "regione" : "REGIONE_CALABRIA",
+    "cfPaziente" : "MLRFNC62C25F112I"
   } ]
 }
